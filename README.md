@@ -11,4 +11,6 @@ I'm a computer engineering student, DevOps intern and obsessive Arch Linux user 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elantriss&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img src= "https://i.pinimg.com/1200x/65/ba/cd/65bacd64a6750a8bfa46c8e447eb981a.jpg" width="500" height="200"/>
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<div align=center>
+<img src="https://raw.githubusercontent.com/Elantriss/Elantriss/output/snake.svg" alt="Snake animation" />
+</div>

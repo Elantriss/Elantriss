@@ -7,7 +7,7 @@ I'm a computer engineering student, DevOps intern and obsessive Arch Linux user 
 ![Elantris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elantriss&show_icons=true&theme=graywhite)
 <img src= "https://i.pinimg.com/736x/1f/00/45/1f0045a51a67c1c7c70e9143b6c6150f.jpg" width="200" height="200">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elantriss&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src= "https://i.pinimg.com/1200x/65/ba/cd/65bacd64a6750a8bfa46c8e447eb981a.jpg">
+<img src= "https://i.pinimg.com/1200x/65/ba/cd/65bacd64a6750a8bfa46c8e447eb981a.jpg" width="500" height="200">
 
 
 
